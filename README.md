@@ -26,6 +26,8 @@ public class HolaMundo {
 }
 ~~~
 
+***Red30 Tech es una marca ficticia creada por LinkedIn Corporation, o sus afiliados, con el único propósito de la creación y el desarrollo de material de formación. Cualquier parecido con marcas, productos o personas reales es mera coincidencia. La información proporcionada sobre el producto o los servicios también es ficticia y no debería interpretarse como representativa de los productos del mercado reales de una categoría similar.***
+
 ### Docente
 
 **Mariona Nadal**
