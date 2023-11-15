@@ -35,7 +35,7 @@ public class HolaMundo {
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/mariona-nadal).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/github-classroom-esencial/potenciar-el-crecimiento-de-desarrolladores-junior
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQEYQPqSLNxRNw/learning-public-crop_675_1200/0/1700040486239?e=2147483647&v=beta&t=MkdhpfJ1FSAntDZl78lFZTbT9pSkPt4HGN6AELIe6qw
 
 [1]: # (End of ES-Instruction ###############################################################################################)
